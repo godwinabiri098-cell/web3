@@ -1,0 +1,31 @@
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: #336aa0;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 36px;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #0b8070;
+    text-align: left;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+p {
+    font-family: 'Open Sans', serif;
+    color: #e7a109;
+    text-align: justify;
+    line-height: 1.6;
+    font-size: 15px;
+}
+small {
+    font-family: 'Poppins', serif;
+    color: #a72828;
+    font-size: 20px;
+}
+body {
+    background-color: #e9eea5;
+    margin: 30px;
+    padding: 30px;
+}

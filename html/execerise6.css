@@ -1,0 +1,18 @@
+.who {
+    color: blue;
+    font-family: 'Georgia', serif;
+   text-transform: lowercase;
+   text-shadow: 2px 2px 5px grey;
+}
+.why {
+    color: purple;
+    font-family: 'Arial', sans-serif;
+   text-transform: uppercase;
+}
+
+.what {
+    color: green;
+    font-family: 'Courier New', monospace;
+    text-transform: capitalize;
+   
+}

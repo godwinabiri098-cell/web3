@@ -1,0 +1,10 @@
+h1 {
+    color: blue;
+    font-family: 'Georgia', serif;
+    letter-spacing: 1cm;
+}
+p {
+    color: purple;
+    font-family: 'Arial', sans-serif;
+   word-spacing: 0.5cm;
+}

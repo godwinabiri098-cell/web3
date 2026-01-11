@@ -1,0 +1,12 @@
+.pie {
+    color: blue;
+    text-align:left ;
+}
+.tie {
+    color: green;
+    text-align: center;
+}
+.kie {
+    color: red;
+    text-align:right ;
+}

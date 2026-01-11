@@ -1,0 +1,9 @@
+a {
+    color: blue;
+    text-decoration: none;
+}
+h2 {
+    color: orange;
+    font-family: 'Georgia', serif;
+    text-decoration: line-through;
+}
